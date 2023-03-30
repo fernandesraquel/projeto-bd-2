@@ -1,5 +1,6 @@
-+6# Documento de Visão  
-:i;s;õ;es
+# Documento de Visão  
+
+### Histórico de revisões
 
 Data        |    Versão   |   Descrição   |   Autor   |
 ---------   | ----------- | ------------- | --------- |
